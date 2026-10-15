@@ -9,7 +9,7 @@ Distributed systems engineer, 13+ years. Currently building LLM inference infras
 
 ## Projects
 
-- [OpenSearch shard allocator: from weight factors to constraints](projects/allocator.html) — why I reversed my own design
+- [Preventing hot shards and increasing throughput in OpenSearch](projects/allocator.html) — why I reversed my own design
 - [LLM inference at Meta](projects/inference.html) — scheduling, KV-cache, latency at scale
 - [Killing the crash loop](projects/crashes.html) — 52 crashes to zero
 - [Cutting runtime by 80%](projects/runtime.html) — coming soon
