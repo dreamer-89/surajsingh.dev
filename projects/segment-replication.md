@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Surviving primary failure without losing a write in OpenSearch
+title: We stop every write to switch the primary, and lose none
 ---
 
-# Surviving primary failure without losing a write in OpenSearch
+# We stop every write to switch the primary, and lose none
 
 ## The problem
 
