@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Failover recovery in OpenSearch
+title: Surviving primary failure without losing a write in OpenSearch
 ---
 
-# Failover recovery in OpenSearch
+# Surviving primary failure without losing a write in OpenSearch
 
 ## The problem
 
