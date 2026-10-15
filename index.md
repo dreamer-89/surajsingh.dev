@@ -10,6 +10,7 @@ Distributed systems engineer, 13+ years. Currently building LLM inference infras
 ## Projects
 
 - [Preventing hot shards and increasing throughput in OpenSearch](projects/allocator.html) — why I reversed my own design
+- [Changing primaries without losing a write](projects/segment-replication.html) — failover in segment replication
 - [LLM inference at Meta](projects/inference.html) — scheduling, KV-cache, latency at scale
 - [Killing the crash loop](projects/crashes.html) — 52 crashes to zero
 - [Cutting runtime by 80%](projects/runtime.html) — coming soon
