@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Changing primaries without losing a write - failover in segment replication
+title: Failover recovery in OpenSearch
 ---
 
-# Changing primaries without losing a write: failover in segment replication
+# Failover recovery in OpenSearch
 
 ## The problem
 
